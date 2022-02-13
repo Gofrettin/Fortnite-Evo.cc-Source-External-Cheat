@@ -7,7 +7,6 @@
 #include <vector>
 
 #define OFFSET_UWORLD 0xb78bc70
-#define OFFSET_EKIP 0x667
 
 ImFont* m_pFont;
 
